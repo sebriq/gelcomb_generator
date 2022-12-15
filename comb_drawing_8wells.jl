@@ -20,7 +20,7 @@ well_y = 10mm
 interval_x = interval_scale * well_x
 
 
-Drawing("A4","comb.svg")
+Drawing(297mm,210mm,"comb8.svg")
 origin()
 #make base
 #background("black")
